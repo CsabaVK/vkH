@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: black;
+    /* border: 1px solid red; */
+    border: 1px;
+    padding: 2px;
+    margin: 10px;
+  }
+  /* The CSS color property defines the text color to be used.
+The CSS font-family property defines the font to be used.
+The CSS font-size property defines the text size to be used. */
+
+#p01{
+    color: blue;
+}
+#att{
+    color: rebeccapurple;
+}
+#link1{
+    color: black;
+    text-decoration: underline;
+    /* LINK */
+}
+/* 
+HTML Link Colors
+By default, a link will appear like this (in all browsers):
+An unvisited link is underlined and blue
+A visited link is underlined and purple
+An active link is underlined and red
+You can change the default colors, by using CSS:
+
+Example:
+a:link {
+  color: green; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+*/
+#multprop, #multprop2{
+    color: green;
+}
+#C4{
+    content: "asd";
+    /* ????? */
+}
+#towerpic{
+    width: 20px;
+    height: 20px;   
+    padding-right: 8px;
+}
+#carpic{
+    width: 20%;
+    height: 20%;
+}
